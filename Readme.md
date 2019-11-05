@@ -17,13 +17,10 @@ Description de l’implémentation technique du jeu (algorithmes principaux, mod
 
 => vérifier si la lettre est dans le mot
 
-si la lettre n’est pas dans le mot :				Si la lettre est dans le mot
-
-=> afficher que la lettre n’est pas dans le mot		=> Proposer au joueur de choisir une autre 									lettre
+si la lettre n’est pas dans le mot :				               Si la lettre est dans le mot
+=> afficher que la lettre n’est pas dans le mot		      => Proposer au joueur de choisir une autre lettre
 => afficher lettre(s) fausse(s) proposées 
-
 => afficher nombre de chances restantes
-
 => proposer de choisir une lettre
 
 => si le mot n’a pas été trouvé afficher  “perdu”
