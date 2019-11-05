@@ -39,7 +39,7 @@ Le jeu se joue entre la console et un joueur. La console propose un mot à trouv
 Exemple d’utilisation ou le joueur gagne :
 La console propose le mot caché et demande au joueur s’il est prêt pour jouer 
 Bonjour ! Êtes vous prêt à jouer au pendu ?
-_ _ _ _ _ _ _ _ _ _ _ 
+_ _ _ _ _ _ _ _ _ _ _ .
 
 La console propose au joueur de choisir une lettre 
 Choisissez une lettre ! 
@@ -50,7 +50,7 @@ m
 La lettre choisie n’est pas dans le mot la console indique au joueur le nombre d’erreurs encore possible et lui indique les lettres fausses déjà proposées et les lettres maquées. Elle propose au joueur de proposer une autre lettre.
 votre lettre n'est pas dans le mot. Il vous reste 10 choix de lettre possible.
 Voici les lettres que vous avez déjà proposées et qui ne sont pas dans le mot : m
-_ _ _ _ _ _ _ _ _ _ _ 
+_ _ _ _ _ _ _ _ _ _ _ .
 Choisissez une lettre !
 
 Le joueur propose une autre lettre. 
@@ -58,7 +58,7 @@ B
 
 La console indique les lettres fausses déjà proposées et les lettres restantes maquées et affiche la lettre si elle est présente dans le mot et l’affiche à la place de  l’_. elle propose au joueur de choisir une nouvelle lettre.
 Voici les lettres que vous avez déjà proposées et qui ne sont pas dans le mot : m
-b _ _ _ _ _ _ _ _ _ _ 
+b _ _ _ _ _ _ _ _ _ _ .
 Choisissez une lettre !
 
 Le joueur propose une autre lettre.
@@ -66,7 +66,7 @@ O
 
 La console indique les lettres fausses déjà proposées et les lettres restantes maquées et affiche la lettre si elle est présente dans le mot et l’affiche à la place de  l’_. elle propose au joueur de choisir une nouvelle lettre.
 Voici les lettres que vous avez déjà proposées et qui ne sont pas dans le mot : m
-b o _ _ _ _ _ _ _ _ _
+b o _ _ _ _ _ _ _ _ _.
 Choisissez une lettre !
  
 Le joueur propose une autre lettre.
@@ -75,7 +75,7 @@ P
 La lettre choisie n’est pas dans le mot la console indique au joueur le nombre d’erreurs encore possible et lui indique les lettres fausses déjà proposées et les lettres restantes  maquées. Elle propose au joueur de proposer une autre lettre.
 votre lettre n'est pas dans le mot. Il vous reste 9 choix de lettre possible.
 Voici les lettres que vous avez déjà proposées et qui ne sont pas dans le mot : m p
-b o _ _ _ _ _ _ _ _ _ 
+b o _ _ _ _ _ _ _ _ _ .
 Choisissez une lettre !
 
 Le joueur propose une autre lettre.
@@ -84,7 +84,7 @@ J
 La lettre choisie n’est pas dans le mot la console indique au joueur le nombre d’erreurs encore possible et lui indique les lettres fausses déjà proposées et les lettres restantes  maquées. Elle propose au joueur de proposer une autre lettre.
 votre lettre n'est pas dans le mot. Il vous reste 8 choix de lettre possible.
 Voici les lettres que vous avez déjà proposées et qui ne sont pas dans le mot : m p j
-b o _ _ _ _ _ _ _ _ _ 
+b o _ _ _ _ _ _ _ _ _ .
 Choisissez une lettre !
 
 Le joueur propose une autre lettre.
@@ -92,7 +92,7 @@ U
 
 La console indique les lettres fausses déjà proposées et les lettres restantes maquées et affiche la lettre si elle est présente dans le mot et l’affiche à la place de  l’_. elle propose au joueur de choisir une nouvelle lettre.
 Voici les lettres que vous avez déjà proposées et qui ne sont pas dans le mot : m p j
-b o u _ _ _ _ _ _ _ _ 
+b o u _ _ _ _ _ _ _ _. 
 Choisissez une lettre !
 
 Le joueur propose une autre lettre.
@@ -100,7 +100,7 @@ N
 
 La console indique les lettres fausses déjà proposées et les lettres restantes maquées et affiche la lettre si elle est présente dans le mot et l’affiche à la place de  l’_. elle propose au joueur de choisir une nouvelle lettre.
 Voici les lettres que vous avez déjà proposées et qui ne sont pas dans le mot : m p j
-b o u _ _ n _ _ _ _ _
+b o u _ _ n _ _ _ _ _.
 Choisissez une lettre !
 
 Le joueur propose une autre lettre.
@@ -109,7 +109,7 @@ Q
 La lettre choisie n’est pas dans le mot la console indique au joueur le nombre d’erreurs encore possible et lui indique les lettres fausses déjà proposées et les lettres restantes  maquées. Elle propose au joueur de proposer une autre lettre.
 votre lettre n'est pas dans le mot. Il vous reste 7 choix de lettre possible.
 Voici les lettres que vous avez déjà proposées et qui ne sont pas dans le mot : m p j q
-b o u _ _ n _ _ _ _ _ 
+b o u _ _ n _ _ _ _ _ .
 Choisissez une lettre !
 
 Le joueur propose une autre lettre.
@@ -117,14 +117,14 @@ A
 
 La console indique les lettres fausses déjà proposées et les lettres restantes maquées et affiche la lettre si elle est présente dans le mot et l’affiche à la place de  l’_. elle propose au joueur de choisir une nouvelle lettre.
 Voici les lettres que vous avez déjà proposées et qui ne sont pas dans le mot : m p j q        
-b o u _ a n _ _ _ _ _
+b o u _ a n _ _ _ _ _.
 Choisissez une lettre !
 Le joueur propose une autre lettre.
 G
 
 La console indique les lettres fausses déjà proposées et les lettres restantes maquées et affiche la lettre si elle est présente dans le mot et l’affiche à la place de  l’_. elle propose au joueur de choisir une nouvelle lettre.
 Voici les lettres que vous avez déjà proposées et qui ne sont pas dans le mot : m p j q        
-b o u _ a n g _ _ _ _
+b o u _ a n g _ _ _ _.
 Choisissez une lettre !
 
 Le joueur propose une autre lettre.
@@ -132,7 +132,7 @@ E
 
 La console indique les lettres fausses déjà proposées et les lettres restantes maquées et affiche la lettre si elle est présente dans le mot et l’affiche à la place de  l’_. elle propose au joueur de choisir une nouvelle lettre.
 Voici les lettres que vous avez déjà proposées et qui ne sont pas dans le mot : m p j q
-b o u _ a n g e _ _ e
+b o u _ a n g e _ _ e.
 Choisissez une lettre !
 
 Le joueur propose une autre lettre.
@@ -148,7 +148,7 @@ I
 
 La console indique les lettres fausses déjà proposées et les lettres restantes maquées et affiche la lettre si elle est présente dans le mot et l’affiche à la place de  l’_. elle propose au joueur de choisir une nouvelle lettre.
 Voici les lettres que vous avez déjà proposées et qui ne sont pas dans le mot : m p j q
-b o u _ a n g e r i e
+b o u _ a n g e r i e.
 Choisissez une lettre !
 
 Le joueur propose une autre lettre.
